@@ -1,0 +1,22 @@
+.elementor-4167 .elementor-element.elementor-element-c2b7f2b > .elementor-container > .elementor-row{align-items:stretch;}.elementor-4167 .elementor-element.elementor-element-c2b7f2b{margin-top:0%;margin-bottom:3%;}.elementor-4167 .elementor-element.elementor-element-ce30027 .accordion-title{font-family:"Lato", Sans-serif;font-weight:800;}.elementor-4167 .elementor-element.elementor-element-ce30027 .accordion-content{color:#AC7B02;}/* Start custom CSS for tm-accordion, class: .elementor-element-ce30027 */.unicamp-accordion-style-01 .unicamp-accordion .accordion-section.active .accordion-header, .unicamp-accordion-style-01 .unicamp-accordion .accordion-section:hover .accordion-header {
+    background: #7f632c;
+}
+.unicamp-accordion .accordion-title span
+{
+    font-size: 16px;
+}
+.accordion-title mark {
+    color: #000;
+    font-size: 13px;
+    font-weight: 500;
+}
+.accordion-title mark:hover {
+    color: #000;
+    font-size: 13px;
+    font-weight: 500;
+}
+.unicamp-accordion .accordion-title span {
+    color: #000;
+    font-size: 13px;
+    font-weight: 500;
+}/* End custom CSS */
